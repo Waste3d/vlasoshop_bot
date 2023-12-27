@@ -4,7 +4,7 @@ import os
 
 
 load_dotenv()
-bot = Bot('6512153645:AAHEKy-vFKuDQRDqwwFrxw7JHoxT1KwCNbM')
+bot = Bot('#')
 dp = Dispatcher(bot=bot)
 
 
